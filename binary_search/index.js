@@ -16,7 +16,10 @@ Input: nums = [-1,0,3,5,9,12], target = 2
 Output: -1
 Explanation: 2 does not exist in nums so return -1
  */
-
+/**
+ * Сложность по времени O(logn)
+ * Сложность по памяти O(1)
+ */
 /**
  * @param {number[]} nums
  * @param {number} target
